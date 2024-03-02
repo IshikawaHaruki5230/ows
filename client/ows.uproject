@@ -1,25 +1,3 @@
-{
-	"FileVersion": 3,
-	"EngineAssociation": "5.3",
-	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "ows",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	],
-	"Plugins": [
-		{
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true,
-			"TargetAllowList": [
-				"Editor"
-			]
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:72d3490f4523b33ce754d839c0c82a6594a2a71fd738efb39dea7150529a403b
+size 606
